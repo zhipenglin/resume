@@ -42,26 +42,33 @@
 1. 2015.06~至今 上海逸橙信息科技有限公司 前端开发
 
 负责内推移动端的开发工作 [伯乐](http://m.bole.ifchange.com/)
+
 主要使用vuejs开发
 
 负责企业画像的开发及c端移动端官网的维护[c端移动端官网](http://m.cheng95.com/)
+
 企业画像部分使用vue开发，cheng95使用zepto开发
 
 负责智能销售h5的开发 [智能销售h5](https://www.ifchange.com/sales/search.html)
+
 使用webpack jquery开发
 
 负责新c端产品职南针的注册登陆 简历 快速简历的开发 及公用组件的开发 [https://www.zhinanzhen.ai/](职南针)
+
 使用 requirejs sails jquery es6开发
 
 负责新c端产品职南针的移动端简历 快速简历 公司主页 及公共组件库的开发 (内测中)
+
 使用reactjs和framework7混合开发
 
 2. 2014.02~2015.06 上海代代传承传媒有限公司 前端开发
 
 负责新版才府SNS的PC端（兼容到IE7）,移动端和安卓/IOS端内嵌页的开发 [才府](https://sns.91ddcc.com/) [才府移动web](https://m.91ddcc.com/)
+
 主要PC端使用seajs+jquery进行开发（尝试使用knockoutjs开发了消息系统） 移动端使用zepto开发
 
 负责IM模块的后端开发和PC端前端开发
+
 主要使用 workerman作为后端websocket服务器
 
 3. 2013.09~2014.02 上海代代传承传媒有限公司 php开发
